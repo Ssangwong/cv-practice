@@ -1,13 +1,9 @@
 google api 사용법
 먼저 구글 클라우드 api 사용자 인증 정보를 만들어야 합니다  "사용자 인증 정보"를 클릭합니다
-![image.png](attachment:image.png){: width="100" height="100"}
 구글 api를 사용하기 위해서는 총 두 가지 키가 필요합니다 
 먼저 google api키를 할당 받읍시다. 그 다음 서비스계정을 생성합니다. 다음의 과정을 거치면 됩니다
-![image-2.png](attachment:image-2.png){: width="100" height="100"}
 서비스 계정을 만들면 키를 받을 수 있는데 그 키는 json파일로 받습니다.
-![image-3.png](attachment:image-3.png){: width="100" height="100"}
 위 과정을 거쳤다면 다음과 같이 서비스계정키를 받을 수 있습니다.
-![image-4.png](attachment:image-4.png){: width="100" height="100"}
 위 작업을 완료하였다면 사용자 인증정보에 두 개의 키가 있어야 합니다.
 
 이제 본격적으로 api를 사용해보도록 하겠습니다.
